@@ -1,4 +1,4 @@
-# Caca_Palavras_C
+# Caca_Palavras
 O trabalho consiste em fazer um programa que contenha duas operações básicas, uma para
 disponibilizar para o usuário uma matriz com as 18 letras, e outra ler e listar as palavras que o
 usuário informa, mas verificando se as palavras são possíveis.
